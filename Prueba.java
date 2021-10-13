@@ -4,6 +4,7 @@ public class Prueba {
 	
 		System.out.println("Jose Manuel Alonso Pozas");
 		System.out.println("León 2001");
+		System.out.println("León Windows 10");
 	}
 }
 
